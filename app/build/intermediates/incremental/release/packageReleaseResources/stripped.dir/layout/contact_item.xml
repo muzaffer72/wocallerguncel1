@@ -1,0 +1,120 @@
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_selectd"
+    android:padding="@dimen/_9sdp">
+
+
+    <RelativeLayout
+        android:id="@+id/avatar_lay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerInParent="true"
+        android:layout_marginEnd="@dimen/_8sdp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/contact_avatar"
+            android:layout_width="@dimen/_42sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/circle_shape"
+            app:riv_corner_radius="@dimen/_77sdp" />
+
+        <ImageView
+            android:id="@+id/who_profile"
+            android:layout_width="@dimen/_14sdp"
+            android:layout_height="@dimen/_14sdp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/who"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_toEndOf="@+id/avatar_lay"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/contact_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="2"
+                android:text="@string/app_name"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12ssp" />
+
+
+            <ImageView
+                android:id="@+id/block_tag"
+                android:layout_width="@dimen/_26sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_3sdp"
+                android:contentDescription="@string/app_name"
+                android:maxLength="25"
+                android:paddingBottom="0.5dp"
+                android:src="@drawable/block_tag"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/spam_tag"
+                android:layout_width="@dimen/_22sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_2sdp"
+                android:contentDescription="@string/app_name"
+                android:paddingBottom="0.5dp"
+                android:src="@drawable/spam_tag"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/who_tag"
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_2sdp"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/who_tag"
+                android:visibility="gone"
+                app:tint="@color/colorPrimary" />
+
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/contact_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:text="0711920144"
+            android:textColor="@color/sub_title_color"
+            android:textSize="@dimen/_12ssp"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+</RelativeLayout>

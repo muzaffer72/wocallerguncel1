@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fillViewport="true"
+    android:orientation="vertical"
+    tools:context="com.whocaller.spamdetector.activities.LoginActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginHorizontal="@dimen/_15sdp"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <ImageView
+            android:id="@+id/back_btn"
+            android:layout_width="@dimen/_18sdp"
+            android:layout_height="@dimen/_18sdp"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_back" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/inter_semibold"
+            android:text="@string/my_account"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/_16ssp" />
+
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_1sdp"
+        android:layout_marginEnd="@dimen/_1sdp"
+        android:layout_marginBottom="@dimen/_2sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="@dimen/_19sdp">
+
+
+                    <com.makeramen.roundedimageview.RoundedImageView
+                        android:id="@+id/profile_pic"
+                        android:layout_width="@dimen/_77sdp"
+                        android:layout_height="@dimen/_77sdp"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="@dimen/_112sdp"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:layout_marginEnd="@dimen/_112sdp"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/profile_img"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.52"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="1.0"
+                        app:riv_border_color="@color/line_color"
+                        app:riv_border_width="@dimen/_2sdp"
+                        app:riv_corner_radius="@dimen/_77sdp" />
+
+
+                    <ImageView
+                        android:id="@+id/cam"
+                        android:layout_width="@dimen/_23sdp"
+                        android:layout_height="@dimen/_23sdp"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/circle_shape"
+                        app:layout_constraintBottom_toBottomOf="@+id/profile_pic"
+                        app:layout_constraintEnd_toEndOf="@+id/profile_pic"
+                        app:riv_corner_radius="@dimen/_77sdp"
+                        app:tint="@color/white" />
+
+
+                    <ImageView
+                        android:id="@+id/add_photo"
+                        android:layout_width="@dimen/_17sdp"
+                        android:layout_height="@dimen/_17sdp"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+                        android:contentDescription="@string/app_name"
+                        app:layout_constraintBottom_toBottomOf="@+id/cam"
+                        app:layout_constraintEnd_toEndOf="@+id/cam"
+                        app:layout_constraintStart_toStartOf="@+id/cam"
+                        app:layout_constraintTop_toTopOf="@+id/cam"
+                        app:srcCompat="@drawable/ic_add_a_photo" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_18sdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/first_name"
+                    android:textColor="@color/title_color"
+                    android:textSize="@dimen/_11ssp"
+                    android:textStyle="bold" />
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/first_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:background="@drawable/bg_editetext"
+                    android:drawablePadding="@dimen/_8sdp"
+                    android:hint="@string/first_name"
+                    android:inputType="text"
+                    android:paddingHorizontal="@dimen/_12sdp"
+                    android:paddingVertical="@dimen/_9sdp"
+                    android:textColor="@color/colorGrey2"
+                    android:textColorHint="@color/edittext_hint_color" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/last_name"
+                    android:textColor="@color/title_color"
+                    android:textSize="@dimen/_11ssp"
+                    android:textStyle="bold" />
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/last_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:background="@drawable/bg_editetext"
+                    android:drawablePadding="@dimen/_8sdp"
+                    android:hint="@string/last_name"
+                    android:inputType="text"
+                    android:paddingHorizontal="@dimen/_12sdp"
+                    android:paddingVertical="@dimen/_9sdp"
+                    android:textColor="@color/colorGrey2"
+                    android:textColorHint="@color/edittext_hint_color" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/phone_number"
+                    android:textColor="@color/title_color"
+                    android:textSize="@dimen/_11ssp"
+                    android:textStyle="bold" />
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/phone_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:background="@drawable/bg_editetext"
+                    android:drawablePadding="@dimen/_8sdp"
+                    android:hint="@string/phone_number"
+                    android:inputType="text"
+                    android:paddingHorizontal="@dimen/_12sdp"
+                    android:paddingVertical="@dimen/_9sdp"
+                    android:textColor="@color/colorGrey2"
+                    android:textColorHint="@color/edittext_hint_color" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="@string/email_mobile_no"
+                    android:textColor="@color/title_color"
+                    android:textSize="@dimen/_11ssp"
+                    android:textStyle="bold" />
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:background="@drawable/bg_editetext"
+                    android:drawablePadding="@dimen/_8sdp"
+                    android:hint="@string/your_email"
+                    android:inputType="text"
+                    android:paddingHorizontal="@dimen/_12sdp"
+                    android:paddingVertical="@dimen/_9sdp"
+                    android:textColor="@color/colorGrey2"
+                    android:textColorHint="@color/edittext_hint_color" />
+
+                <LinearLayout
+                    android:id="@+id/save_changes"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_37sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginHorizontal="@dimen/_4sdp"
+                    android:layout_marginTop="@dimen/_27sdp"
+                    android:background="@drawable/rounded_btn"
+                    android:elevation="@dimen/_2sdp"
+                    android:gravity="center">
+
+
+                    <ProgressBar
+                        android:id="@+id/progressBar"
+                        android:layout_width="@dimen/_19sdp"
+                        android:layout_height="@dimen/_19sdp"
+                        android:indeterminate="true"
+                        android:indeterminateTint="@color/white"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/save_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="@string/save_changes"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_12ssp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

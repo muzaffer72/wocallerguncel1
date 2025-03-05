@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "385464513023",
+    "project_id": "onvaonet",
+    "storage_bucket": "onvaonet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385464513023:android:93badede9c89289c3a77ca",
+        "android_client_info": {
+          "package_name": "app.ikev2.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFOJGB22qTpqqQOe618UllsTraft2KQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385464513023:android:8092ab07d7a0379f3a77ca",
+        "android_client_info": {
+          "package_name": "com.whocaller.spamdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFOJGB22qTpqqQOe618UllsTraft2KQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385464513023:android:d4d345de34a559a83a77ca",
+        "android_client_info": {
+          "package_name": "onvao.net.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFOJGB22qTpqqQOe618UllsTraft2KQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5500495428595652~1227594485"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,125 @@
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_selectd"
+    android:orientation="horizontal"
+    android:padding="@dimen/_9sdp">
+
+
+    <RelativeLayout
+        android:id="@+id/avatar_lay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/_8sdp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/contact_avatar"
+            android:layout_width="@dimen/_42sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/circle_shape"
+            app:riv_corner_radius="@dimen/_77sdp" />
+
+        <ImageView
+            android:id="@+id/who_profile"
+            android:layout_width="@dimen/_14sdp"
+            android:layout_height="@dimen/_14sdp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/who"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/name_lay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/contact_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="93dp"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:text="@string/maintenance_description"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12ssp"
+                tools:ignore="HardcodedText" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="-91dp"
+                android:layout_toEndOf="@+id/contact_name"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/block_tag"
+                    android:layout_width="34dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="2dp"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/block_tag"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/spam_tag"
+                    android:layout_width="28dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="2dp"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/spam_tag"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/who_tag"
+                    android:layout_width="26dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="3dp"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/who_tag"
+                    app:tint="@color/colorPrimary" />
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/contact_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="0711920144"
+            android:textColor="@color/sub_title_color"
+            android:textSize="@dimen/_12ssp"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+</LinearLayout>

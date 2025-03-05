@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <string-array name="tags_list">
+            <item>@string/tag_education</item>
+            <item>@string/tag_entertainment</item>
+            <item>@string/tag_finance</item>
+            <item>@string/tag_health</item>
+            <item>@string/tag_hotels</item>
+            <item>@string/tag_nightlife</item>
+            <item>@string/tag_restaurants</item>
+            <item>@string/tag_services</item>
+            <item>@string/tag_shopping</item>
+            <item>@string/tag_transportation</item>
+            <item>@string/tag_travel</item>
+            <item>@string/tag_legal</item>
+            <item>@string/tag_beauty</item>
+            <item>@string/tag_property</item>
+            <item>@string/tag_religious</item>
+            <item>@string/tag_sports</item>
+
+            
+            <item>@string/tag_phishing</item>
+            <item>@string/tag_social_engineering</item>
+            <item>@string/tag_fake_shopping</item>
+            <item>@string/tag_fake_loan</item>
+            <item>@string/tag_pyramid_schemes</item>
+            <item>@string/tag_fake_betting</item>
+            <item>@string/tag_identity_theft</item>
+            <item>@string/tag_social_media_scam</item>
+            <item>@string/tag_fake_technical_support</item>
+            <item>@string/tag_fake_rental</item>
+            <item>@string/tag_fake_job_offer</item>
+            <item>@string/tag_fake_health_products</item>
+        </string-array>
+    <color name="bg_edittext_color">#FAFAFA</color>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#49B7FF</color>
+    <color name="colorGrey">#CECECE</color>
+    <color name="colorGrey1">#888888</color>
+    <color name="colorGrey2">#5A5A5A</color>
+    <color name="colorPrimary">#ff0087ff</color>
+    <color name="colorPrimaryDark">#0179E3</color>
+    <color name="colorPrimary_low">#EDF8FF</color>
+    <color name="edittext_hint_color">#B8B8B8</color>
+    <color name="green">#08960E</color>
+    <color name="grey_low">#E8E8E8</color>
+    <color name="ic_launcher_background">#31A8F5</color>
+    <color name="line_color">#EAEAEA</color>
+    <color name="red">#fffa2b29</color>
+    <color name="sub_title_color">#A6A6A6</color>
+    <color name="title_color">#121212</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="_0">0</string>
+    <string name="_20">20%</string>
+    <string name="about">About Us</string>
+    <string name="about_us">About Us</string>
+    <string name="add_call">Add Call</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string name="add_tag">Add tag</string>
+    <string name="added_to_favourites">%1$s is added to favourites</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-5500495428595652~1332363235</string>
+    <string name="agree_and_continue"><![CDATA[AGREE & CONTINUE]]></string>
+    <string name="all_incoming_calls">All incoming calls</string>
+    <string name="all_outgoing_calls">All outgoing calls</string>
+    <string name="and">and</string>
+    <string name="answer_and_hold">Answer &amp; Hold</string>
+    <string name="app_name" translatable="false">Whocaller</string>
+    <string name="ara">Search</string>
+    <string name="aramalar">Phone</string>
+    <string name="are_you_sure_report_contact">Are you sure you want to report this contact? After reporting, this contact will be marked as spam. Please check and confirm.</string>
+    <string name="are_you_sure_revoke_report">Are you sure you want to revoke the report for this contact? After revoking, this contact will no longer be marked as spam. Please check and confirm.</string>
+    <string name="are_you_sure_you">Are you sure you want to report this contact? After reporting, this contact will be marked as spam. Please check and confirm.</string>
+    <string name="are_you_sure_you_revoke">Are you sure you want to revoke the report for this contact? After revoking, this contact will no longer be marked as spam. Please check and confirm.</string>
+    <string name="block">Block</string>
+    <string name="block_list">Block list</string>
+    <string name="block_spam_contacts"><![CDATA[Block & Spam Contacts]]></string>
+    <string name="blocked_calls">Blocked calls</string>
+    <string name="blocked_contacts">Blocked contacts</string>
+    <string name="blocked_user">Blocked User</string>
+    <string name="blocks">Block</string>
+    <string name="bottom">Bottom</string>
+    <string name="bul">on Whocaller</string>
+    <string name="business">Business</string>
+    <string name="by_clicking_agree"><![CDATA[By clicking agree & continue you agree to our]]></string>
+    <string name="by_signing_up_yo">By signing up, you agree to our Terms and Policy</string>
+    <string name="call">Call</string>
+    <string name="call_active">Call Active</string>
+    <string name="call_again">Recall</string>
+    <string name="call_answered">Call answered</string>
+    <string name="call_duration_hr_min_sec">%d hour %d minutes %d seconds</string>
+    <string name="call_duration_min_sec">%d minutes %d seconds</string>
+    <string name="call_duration_sec">%d seconds</string>
+    <string name="call_ended">Call ended</string>
+    <string name="call_ended_less_than_1m_ago">Call ended less than 1m ago</string>
+    <string name="call_history">Call History</string>
+    <string name="call_in_progress">Call in progress...</string>
+    <string name="call_muted">Call muted</string>
+    <string name="call_rejected">Call rejected</string>
+    <string name="call_unmuted">Call unmuted</string>
+    <string name="caller_id">Caller ID</string>
+    <string name="caller_id_disabled">Caller ID Disabled</string>
+    <string name="caller_id_stats">Caller ID Stats</string>
+    <string name="calling">Aranıyor...</string>
+    <string name="calls">Calls</string>
+    <string name="calls_permissions">Calls permissions are needed and accessed to enable phone number verification, incoming and outgoing calls, display your call history and manage your calls.</string>
+    <string name="center">Center</string>
+    <string name="check_internet">Please check your internet Connection</string>
+    <string name="check_update">Check For Update</string>
+    <string name="choose_email">Choose an app</string>
+    <string name="choose_popup_position">Choose Popup Position</string>
+    <string name="company">Company</string>
+    <string name="company_name">AndroPlaza</string>
+    <string name="complete_your_profile">Complete your profile</string>
+    <string name="confirm_block">Confirm block</string>
+    <string name="confirm_unblock">Confirm Unblock</string>
+    <string name="confirm_unblock2">Confirm Unblock</string>
+    <string name="contact">Contact</string>
+    <string name="contact_added_to_favorites">%s is added to favourites</string>
+    <string name="contact_not_found">Contact not found!</string>
+    <string name="contact_number">+94711920144</string>
+    <string name="contact_removed_from_favorites">%s is removed from favourites</string>
+    <string name="contacts">Contacts</string>
+    <string name="contacts_dialog_des">Please add your phone number to continue using this app.</string>
+    <string name="contacts_dialog_head">Add Your Phone Number</string>
+    <string name="contacts_permissions">Contacts permissions are needed and accessed to enable showing caller-id enhancing your calling experience by providing features such as commonly used contacts, favorite contacts, and allowing you to manage your contacts within the App.</string>
+    <string name="contacts_safe_description">Your contacts are safe and will not be shared with anyone</string>
+    <string name="continue_">Continue</string>
+    <string name="copy_contact">Copy Contact</string>
+    <string name="copy_contact_succeeded">Copy Contact succeeded</string>
+    <string name="copy_name">Copy Name</string>
+    <string name="copy_name2_succeeded">Copy Name succeeded</string>
+    <string name="copy_name_succeeded">Copy Name succeeded</string>
+    <string name="copy_number">Copy Number</string>
+    <string name="copy_number_succeeded">Copy Number succeeded</string>
+    <string name="country_code">Country Code</string>
+    <string name="country_region">Country / Region</string>
+    <string name="create_an_account_on_to_use_all_nthe_features">Create an account on to use all the features</string>
+    <string name="data_process_icon">Data Process Icon</string>
+    <string name="data_use_icon">Data Use Icon</string>
+    <string name="data_we_process">Data we process</string>
+    <string name="default_web_client_id" translatable="false">385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="describe_it_to_improve_whocaller">Describe it to improve WhoCaller</string>
+    <string name="dialog_edit_contact_error">Don\'t Create</string>
+    <string name="didn_t_receive_a_code">If you didn’t receive a code?</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="do_you_want_to_block_contact">Do you want to block this contact?</string>
+    <string name="do_you_want_to_block_this_contact">Do you want to block this contact?</string>
+    <string name="do_you_want_to_unblock_contact">Do you want to unblock this contact?</string>
+    <string name="do_you_want_to_unblock_this_contact">Do you want to Unblock this contact?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="edit">Edit</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="email">Email</string>
+    <string name="email_mobile_no">Email</string>
+    <string name="emobileno">Enter Mobile No</string>
+    <string name="empower_icon">Empower Icon</string>
+    <string name="ename">Enter Name</string>
+    <string name="end_call">End call</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+    <string name="envalid_number">Invalid phone number</string>
+    <string name="epassword">Enter Password</string>
+    <string name="error_occurred">An error occurred, please try again later.</string>
+    <string name="evalidmobile">Enter Valid mobile</string>
+    <string name="evalisemail">Enter Valid Email</string>
+    <string name="failed_to_update_contact">Failed to update contact</string>
+    <string name="favourites">Favourites</string>
+    <string name="favourites2">Favourites</string>
+    <string name="feedback">Feedback</string>
+    <string name="first_name">First name</string>
+    <string name="forgot_password">Forgot Password!</string>
+    <string name="gcm_defaultSenderId" translatable="false">385464513023</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="google_api_key" translatable="false">AIzaSyCAFOJGB22qTpqqQOe618UllsTraft2KQQ</string>
+    <string name="google_app_id" translatable="false">1:385464513023:android:8092ab07d7a0379f3a77ca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAFOJGB22qTpqqQOe618UllsTraft2KQQ</string>
+    <string name="google_storage_bucket" translatable="false">onvaonet.firebasestorage.app</string>
+    <string name="google_web_client_id" translatable="false">385464513023-9pkuhjej9fl6piod27u8vjtn4n1hqsr9.apps.googleusercontent.com</string>
+    <string name="hold">Hold</string>
+    <string name="hold_and_answer">Hold &amp; Answer</string>
+    <string name="how_we_use_your_data">How we use your data</string>
+    <string name="identified">Identified</string>
+    <string name="identified_by_whocaller">Identified by Whocaller</string>
+    <string name="if_you_have_an_account">If you have an account?</string>
+    <string name="in_your_contacts">IN YOUR CONTACTS</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="incoming_calls">Incoming calls</string>
+    <string name="invalid_contact">Invalid contact information for editing.</string>
+    <string name="is_this_a_business">Is this a business ?</string>
+    <string name="keypad">Keypad</string>
+    <string name="last_name">Last name</string>
+    <string name="let_s_get_started">Let\'s get Started!</string>
+    <string name="likely_a_business">Likely a business</string>
+    <string name="likely_a_person">Likely a person</string>
+    <string name="location">Location</string>
+    <string name="log_in_to_your_existing_account">Log in to your existing account</string>
+    <string name="login">Login</string>
+    <string name="login_here">Login Here</string>
+    <string name="logout">Logout</string>
+    <string name="love_this_app">Love this app? Let us Know in the Google Play Store how we can make it even better</string>
+    <string name="made_with_in">Made With ❤ in Shadowsocks</string>
+    <string name="maintenance_description">we are performing scheduled maintenance. we should be back online shortly.</string>
+    <string name="maintenance_title">Temporarily Down for Maintenance</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="missed_call">Cevapsız Çağrı</string>
+    <string name="missed_calls">Missed calls</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="mobitel">Mobitel</string>
+    <string name="more_info_available">More info available</string>
+    <string name="mute">Mute</string>
+    <string name="mute_call">Mute Mic</string>
+    <string name="my_account">My Account</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="name">Name</string>
+    <string name="name2">"Name: "</string>
+    <string name="name_or_number">Enter Valid Name or Number</string>
+    <string name="next_profile_status">Next profile status</string>
+    <string name="no">No</string>
+    <string name="no_call_history">No call history..</string>
+    <string name="no_contacts_found">No contacts found !</string>
+    <string name="not_a_business_or_wrong_name">Not a business or wrong name?</string>
+    <string name="not_supported">Your device does not support editing or viewing contacts!</string>
+    <string name="notification">Notification</string>
+    <string name="number">Number</string>
+    <string name="number2">"\nNumber: "</string>
+    <string name="ok">OK</string>
+    <string name="onesignal_app_id" translatable="false">a1965d04-7a83-4c01-9fa0-1ecef77514e3</string>
+    <string name="or_with">Or with</string>
+    <string name="outgoing_calls">Outgoing calls</string>
+    <string name="password">Password</string>
+    <string name="permission_needed">Permission is required to edit contacts!</string>
+    <string name="permissions">Permissions</string>
+    <string name="permissions_and_privacy">Permissions and privacy</string>
+    <string name="person">Person</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone number</string>
+    <string name="please_enter_valid_name">Please enter a valid name</string>
+    <string name="please_review_the">Please review the key points in our Privacy policy and Terms of service Below</string>
+    <string name="please_save_contact">Please save contact before adding to favourites</string>
+    <string name="please_select_an_option">Please select an option</string>
+    <string name="privacy_is_integral">Privacy is integral to our culture and processes at CallApp. We continuously evaluate the privacy implications of all our features. The data we process is only used for the purposes set out in our privacy policy including: \n\n- In order to provide the services CallApp offers (including but not limited to phone number recognition) such as displaying Caller-ID and profile data when you or another user calls or sends a text message, we use your contact list information, profile data and the information granted to us when you access our services.\n- Providing, improving, enriching, analysing and personalising our services to ensure that you have the best experience with our App.\n- Complying with local laws and protecting your rights.\n- Creating reports using aggregated and anonymized data for statistical and analytical purposes to improve our services.</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_link" translatable="false">https://whocaller.app/privacy.html</string>
+    <string name="profile">Profile</string>
+    <string name="project_id" translatable="false">onvaonet</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="re_with_us">We are committed to the privacy of our users and care deeply about the data you share with us. We securely handle and process your data as per our privacy policy. The data we process depends on how you use our app. We only require your phone number / social login and name to create your profile. We have optional features which, if used by you, require us to collect additional information. When you start using our app, we will also collect and transmit information about your interaction with our app and devices you use to access our app including information about installed apps, IP address, keywords and meta data of incoming and outgoing calls and messages, contact list, device location and unique identifiers.</string>
+    <string name="recents">Recents</string>
+    <string name="redirect_button">Download Update Now</string>
+    <string name="redirect_message">This application has expired and is no longer used, press the button below to download and install the latest update of this application.</string>
+    <string name="redirect_title">New App Updates</string>
+    <string name="register">Register</string>
+    <string name="reject">Reject</string>
+    <string name="rejected_calls">Rejected calls</string>
+    <string name="removed_from_favourites">%1$s is removed from favourites</string>
+    <string name="report_contact">Report Contact</string>
+    <string name="report_contact2">Report Contact</string>
+    <string name="report_contact3">Report Contact</string>
+    <string name="report_contact_title">Report Contact</string>
+    <string name="report_revoked_successfully">Report revoked successfully</string>
+    <string name="resend">Resend</string>
+    <string name="reste_password">Reset Password</string>
+    <string name="revoke_report">Revoke Report</string>
+    <string name="revoke_report2">Revoke Report</string>
+    <string name="revoke_report_title">Revoke Report</string>
+    <string name="ringtone_silenced">Ringtone silenced</string>
+    <string name="save">Save</string>
+    <string name="save_changes">Save changes</string>
+    <string name="save_contact_first">Please save the contact before adding to favourites</string>
+    <string name="search">Search</string>
+    <string name="search_contacts">Search contacts</string>
+    <string name="search_description">Discover who’s calling with Whocaller ! \nUse our powerful search tool to find \ncontacts by name or number. \nQuickly access all related and matching contacts, \nensuring you always know who\'s on the other end. \nStay connected and informed effortlessly..</string>
+    <string name="search_number_names">Search number , names</string>
+    <string name="searching">Searching..</string>
+    <string name="security_and_privacy"><![CDATA[Security & Privacy]]></string>
+    <string name="selected">"Selected: "</string>
+    <string name="set_as_default">Set As Default</string>
+    <string name="set_caller_id_as_default_dialer">"To enjoy enhanced calling experience with advanced features
+Set Whocaller as your default phone app."</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_contact">Share Contact</string>
+    <string name="share_text">I Would like to share this Whocaller - Android CallerID App with you. Here You Can Download This Application from PlayStore</string>
+    <string name="share_the_app">Share the app with your friends and family</string>
+    <string name="show_after_call_details">Show after call details</string>
+    <string name="show_all_calls">Show all calls</string>
+    <string name="show_caller_id">Show Caller ID</string>
+    <string name="show_caller_id_for_contacts">Show Caller ID for contacts</string>
+    <string name="show_details">show_details</string>
+    <string name="show_info_during_call">Show info during call</string>
+    <string name="show_information_during_phone_calls">Show information during phone calls</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_phone">Sign in with Mobile</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="silence_ringtone">Silence Ringtone</string>
+    <string name="sing">Sign Up</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="sms">sms</string>
+    <string name="sound_and_notifications">Sound and notifications</string>
+    <string name="spam_calls_identified">Spam calls identified</string>
+    <string name="spam_list">Spam list</string>
+    <string name="spam_user">Spam User</string>
+    <string name="spammer">Spammer</string>
+    <string name="speaker">Speaker</string>
+    <string name="speaker_off">Speaker Off</string>
+    <string name="speaker_on">Speaker On</string>
+    <string name="spinner_title">Select Cuntry</string>
+    <string name="suggest_a_better_name">Suggest a better name</string>
+    <string name="tag_beauty">Beauty And Personal Care</string>
+    <string name="tag_education">Education</string>
+    <string name="tag_entertainment">Entertainment &amp; Arts</string>
+    <string name="tag_fake_betting">Fake Betting &amp; Gambling</string>
+    <string name="tag_fake_health_products">Fake Health Products</string>
+    <string name="tag_fake_job_offer">Fake Job Offers</string>
+    <string name="tag_fake_loan">Loan &amp; Credit Card Fraud</string>
+    <string name="tag_fake_rental">Fake Rental &amp; Leasing</string>
+    <string name="tag_fake_shopping">Fake Online Stores</string>
+    <string name="tag_fake_technical_support">Fake Technical Support</string>
+    <string name="tag_finance">Finance &amp; Insurance</string>
+    <string name="tag_health">Health &amp; Wellness</string>
+    <string name="tag_hotels">Hotels &amp; Accommodation</string>
+    <string name="tag_identity_theft">Identity Theft</string>
+    <string name="tag_legal">Legal</string>
+    <string name="tag_nightlife">Nightlife &amp; Drinks</string>
+    <string name="tag_phishing">Phishing &amp; Online Fraud</string>
+    <string name="tag_property">Property</string>
+    <string name="tag_pyramid_schemes">Ponzi &amp; Pyramid Schemes</string>
+    <string name="tag_religious">Religious Place</string>
+    <string name="tag_restaurants">Restaurants &amp; Cafés</string>
+    <string name="tag_services">Services</string>
+    <string name="tag_shopping">Shopping &amp; Convenience Stores</string>
+    <string name="tag_social_engineering">Social Engineering Fraud</string>
+    <string name="tag_social_media_scam">Social Media Scams</string>
+    <string name="tag_sports">Sports And Recreation</string>
+    <string name="tag_transportation">Transportation / Automotive</string>
+    <string name="tag_travel">Travel &amp; Tourism</string>
+    <string name="terms_conditions_link" translatable="false">https://whocaller.app/terms.html</string>
+    <string name="terms_of_service">Terms of service</string>
+    <string name="toast_improving">Thanks for improving whocaller !</string>
+    <string name="top">Top</string>
+    <string name="try_again_later">Try again later</string>
+    <string name="twilid_auth_token" translatable="false">612d951fd1c81c57bfc13a57a3340a4a</string>
+    <string name="twilid_id" translatable="false">AC08b5ba235ea54e3ef913e94e5f7a09d1</string>
+    <string name="unblock">Unblock</string>
+    <string name="unknown">Unknown</string>
+    <string name="unknown_numbers_identified">Unknown numbers identified</string>
+    <string name="unmute">Unmute</string>
+    <string name="update_app">Update App</string>
+    <string name="upgrade_to_premium_to_view">Upgrade to Premium to view</string>
+    <string name="verification_description">Please enter the code we just sent to phone number</string>
+    <string name="verification_phone">Verification Phone</string>
+    <string name="version">Version</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="view_info">View Info</string>
+    <string name="view_mode_message">You can open the contact and use the edit button.</string>
+    <string name="view_profile">View profile</string>
+    <string name="we_empower">We empower you on how to be seen on CallApp</string>
+    <string name="we_entrust_you">We entrust you with the power to control and protect. You can decide how your personal information is displayed to others in the community. You can edit your profile in the app anytime or deactivate your account if you decide to do so. If there is any reason you do not want your information to be on CallApp, you may unlist yourself.</string>
+    <string name="we_will_send_reset_link">Please enter your email, we will send verification code to your email.</string>
+    <string name="we_will_send_you_the_6_digit_verification_code">Please enter your phone number, We will send you the 6 digit verification code</string>
+    <string name="website">Website</string>
+    <string name="welcome_back">Welcome Back 👋</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="whocaller_contact_search">Whocaller - Contact Search</string>
+    <string name="yes">Yes</string>
+    <string name="you_need_to_enter_the_last_4_characters">You need to enter the last 10 characters</string>
+    <string name="your_email">Your email</string>
+    <string name="your_name">Your name</string>
+    <string name="your_password">Your password</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/colorPrimaryDark</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">#00FFFFFF</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">#00FFFFFF</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="l">true</item>
+        
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+    </style>
+    <style name="AppTheme.AdAttribution">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#8E8D8D</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Ad</item>
+        <item name="android:height">15dp</item>
+        <item name="android:width">15dp</item>
+    </style>
+    <style name="BottomSheetDialogTheme" parent="Theme.MaterialComponents.DayNight.BottomSheetDialog">
+        
+        <item name="android:background">@android:color/transparent</item>
+        
+    </style>
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item> 
+        <item name="android:backgroundDimAmount">0.6</item> 
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+    </style>
+    <style name="CustomDialogTheme2" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="DialogTheme.NoActionBar" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_logo</item> 
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">#00FFFFFF</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="l">true</item>
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Choice" ns1:ignore="ResourceCycle" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipCornerRadius">8dp</item>
+        <item name="chipBackgroundColor">@color/white</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="chipStrokeColor">@color/colorPrimary_low</item>
+        <item name="android:textColor">@color/title_color</item>
+    </style>
+</resources>

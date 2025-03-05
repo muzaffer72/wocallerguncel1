@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="19.126" android:viewportHeight="19.126">
+	<path android:fillColor="#ff1fc524" android:pathData="M11.54,8.59h4.516a0.5,0.5 0,0 0,0.5 -0.5v-1a0.5,0.5 0,0 0,-0.5 -0.5h-2.093l4.456,-4.456a0.5,0.5 0,0 0,0 -0.71l-0.71,-0.71a0.5,0.5 0,0 0,-0.71 0L12.543,5.161L12.543,3.07a0.5,0.5 0,0 0,-0.5 -0.5h-1a0.5,0.5 0,0 0,-0.5 0.5L10.543,7.586A1,1 0,0 0,11.54 8.59Z" android:strokeColor="#ffd2f4d3" android:strokeWidth="1.0" />
+	<path android:fillColor="#ff1fc524" android:pathData="M17.116,12.419a10.257,10.257 0,0 1,-3.222 -0.513,1.474 1.474,0 0,0 -1.432,0.3L10.431,13.741A11.231,11.231 0,0 1,5.384 8.695l1.49,-1.979a1.457,1.457 0,0 0,0.358 -1.478A10.3,10.3 0,0 1,6.717 2.011,1.451 1.451,0 0,0 5.267,0.561L1.95,0.561A1.451,1.451 0,0 0,0.5 2.011,16.634 16.634,0 0,0 17.116,18.626a1.451,1.451 0,0 0,1.45 -1.45L18.566,13.868A1.451,1.451 0,0 0,17.116 12.419Z" android:strokeColor="#ffd2f4d3" android:strokeWidth="1.0" />
+</vector>

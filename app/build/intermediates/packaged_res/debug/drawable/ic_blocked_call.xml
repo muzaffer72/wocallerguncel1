@@ -1,0 +1,13 @@
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<vector android:autoMirrored="true" android:height="@dimen/_18sdp"
+    android:tint="#FF2027" android:viewportHeight="24"
+    android:viewportWidth="24" android:width="@dimen/_18sdp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@android:color/white" android:pathData="M20,5.41L18.59,4 7,15.59V9H5v10h10v-2H8.41z"/>
+</vector>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Company : AndroPlaza
+  ~ Detailed : Software Development Company in Sri Lanka
+  ~ Developer : Buddhika
+  ~ Contact : support@androplaza.shop
+  ~ Whatsapp : +94711920144
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ada_new_contact"
+        android:title="@string/add_new_contact" />
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/call_history"
+        android:title="@string/call_history" />
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search" />
+
+</menu>

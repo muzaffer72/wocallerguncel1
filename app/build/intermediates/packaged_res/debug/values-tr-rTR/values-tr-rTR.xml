@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tags_list">
+            <item>@string/tag_education</item>
+            <item>@string/tag_entertainment</item>
+            <item>@string/tag_finance</item>
+            <item>@string/tag_health</item>
+            <item>@string/tag_hotels</item>
+            <item>@string/tag_nightlife</item>
+            <item>@string/tag_restaurants</item>
+            <item>@string/tag_services</item>
+            <item>@string/tag_shopping</item>
+            <item>@string/tag_transportation</item>
+            <item>@string/tag_travel</item>
+            <item>@string/tag_legal</item>
+            <item>@string/tag_beauty</item>
+            <item>@string/tag_property</item>
+            <item>@string/tag_religious</item>
+            <item>@string/tag_sports</item>
+
+            
+            <item>@string/tag_phishing</item>
+            <item>@string/tag_social_engineering</item>
+            <item>@string/tag_fake_shopping</item>
+            <item>@string/tag_fake_loan</item>
+            <item>@string/tag_pyramid_schemes</item>
+            <item>@string/tag_fake_betting</item>
+            <item>@string/tag_identity_theft</item>
+            <item>@string/tag_social_media_scam</item>
+            <item>@string/tag_fake_technical_support</item>
+            <item>@string/tag_fake_rental</item>
+            <item>@string/tag_fake_job_offer</item>
+            <item>@string/tag_fake_health_products</item>
+        </string-array>
+    <string name="_0">0</string>
+    <string name="_20">%20</string>
+    <string name="about">Hakkımızda</string>
+    <string name="about_us">Hakkımızda</string>
+    <string name="add_call">Arama Ekle</string>
+    <string name="add_new_contact">Yeni kişi ekle</string>
+    <string name="add_tag">Etiket ekle</string>
+    <string name="added_to_favourites">%1$s favorilere eklendi</string>
+    <string name="agree_and_continue"><![CDATA[KABUL ET & DEVAM ET]]></string>
+    <string name="all_incoming_calls">Tüm gelen aramalar</string>
+    <string name="all_outgoing_calls">Tüm giden aramalar</string>
+    <string name="and">ve</string>
+    <string name="answer_and_hold">Yanıtla ve Beklet</string>
+    <string name="app_name" translatable="false">Whocaller</string>
+    <string name="ara">Whocaller ile</string>
+    <string name="aramalar">Telefon</string>
+    <string name="are_you_sure_report_contact">Bu kişiyi rapor etmek istediğinize emin misiniz? Rapor edildikten sonra kişi spam olarak işaretlenecektir. Lütfen kontrol edip onaylayın.</string>
+    <string name="are_you_sure_revoke_report">Bu kişinin raporunu geri almak istediğinize emin misiniz? Geri alındıktan sonra kişi spam olarak işaretlenmeyecektir. Lütfen kontrol edip onaylayın.</string>
+    <string name="are_you_sure_you">Bu kişiyi şikayet etmek istediğinizden emin misiniz? Şikayet ettikten sonra, bu kişi spam olarak işaretlenecektir. Lütfen kontrol edin ve onaylayın.</string>
+    <string name="are_you_sure_you_revoke">Bu kişi için şikayeti geri almak istediğinizden emin misiniz? Şikayet geri alındıktan sonra, bu kişi artık spam olarak işaretlenmeyecektir. Lütfen kontrol edin ve onaylayın.</string>
+    <string name="block">Engelle</string>
+    <string name="block_list">Engellenenler </string>
+    <string name="block_spam_contacts"><![CDATA[Engelle & Spam Kişiler]]></string>
+    <string name="blocked_calls">Engellenen aramalar</string>
+    <string name="blocked_contacts">Engellenen kişiler</string>
+    <string name="blocked_user">Engellendi</string>
+    <string name="blocks">Engelli</string>
+    <string name="bottom">Alt</string>
+    <string name="bul"> Kişisini Bul</string>
+    <string name="business">İşletme</string>
+    <string name="by_clicking_agree"><![CDATA[Kabul et ve devam et\'e tıklayarak uygulamayı kullanmaya başlayabilirsiniz.]]></string>
+    <string name="by_signing_up_yo">Kayıt olarak, Şartlar ve Gizlilik Politikamızı kabul etmiş olursunuz</string>
+    <string name="call">Arama Yap</string>
+    <string name="call_active">Çağrı Aktif</string>
+    <string name="call_again">Tekrar Ara</string>
+    <string name="call_answered">Çağrı yanıtlandı</string>
+    <string name="call_duration_hr_min_sec">%d saat %d dakika %d saniye</string>
+    <string name="call_duration_min_sec">%d dakika %d saniye</string>
+    <string name="call_duration_sec">%d saniye</string>
+    <string name="call_ended">Çağrı sonlandırıldı</string>
+    <string name="call_ended_less_than_1m_ago">Çağrı az önce sona erdi.</string>
+    <string name="call_history">Arama Geçmişi</string>
+    <string name="call_in_progress">Devam eden arama...</string>
+    <string name="call_muted">Sessize Alındı</string>
+    <string name="call_rejected">Çağrı reddedildi</string>
+    <string name="call_unmuted">Sessizden Alındı</string>
+    <string name="caller_id">Arayan Kimliği</string>
+    <string name="caller_id_disabled">Arayan Kimliği Kapalı</string>
+    <string name="caller_id_stats">Arayan Kimliği İstatistikleri</string>
+    <string name="calling">Aranıyor...</string>
+    <string name="calls">Aramalar</string>
+    <string name="calls_permissions">Arama izinleri, telefon numarası doğrulaması, gelen ve giden aramalar, arama geçmişinizi görüntüleme ve çağrılarınızı yönetme özelliklerini etkinleştirmek için gereklidir.</string>
+    <string name="center">Orta</string>
+    <string name="check_internet">Lütfen internet bağlantınızı kontrol edin</string>
+    <string name="check_update">Güncellemeleri Kontrol Et</string>
+    <string name="choose_email">Bir uygulama seçin</string>
+    <string name="choose_popup_position">Popup Konumu Seçin</string>
+    <string name="company">Şirket</string>
+    <string name="company_name">Whocaller</string>
+    <string name="complete_your_profile">Profilinizi tamamlayın</string>
+    <string name="confirm_block">Engellemeyi Onayla</string>
+    <string name="confirm_unblock">Engellemeyi Kaldır</string>
+    <string name="confirm_unblock2">Engellemeyi Kaldır</string>
+    <string name="contact">İletişim</string>
+    <string name="contact_added_to_favorites">%s favorilere eklendi</string>
+    <string name="contact_not_found">Kişi bulunamadı!</string>
+    <string name="contact_number">+94711920144</string>
+    <string name="contact_removed_from_favorites">%s favorilerden kaldırıldı</string>
+    <string name="contacts">Kişiler</string>
+    <string name="contacts_dialog_des">Uygulamayı kullanmaya devam etmek için lütfen telefon numaranızı ekleyin.</string>
+    <string name="contacts_dialog_head">Telefon Numaranızı Ekleyin</string>
+    <string name="contacts_permissions">Rehber izinleri, arayan kimliğini gösterebilmek, sık kullanılan kişiler ve favori kişiler gibi özellikleri sağlayarak arama deneyiminizi geliştirmek ve rehberinizi uygulama içinde yönetebilmenizi sağlamak amacıyla gereklidir.</string>
+    <string name="contacts_safe_description">Kişileriniz güvende ve kimseyle paylaşılmaz</string>
+    <string name="continue_">Devam Et</string>
+    <string name="copy_contact">Kişiyi Kopyala</string>
+    <string name="copy_contact_succeeded">Kişi başarıyla kopyalandı</string>
+    <string name="copy_name">İsmi Kopyala</string>
+    <string name="copy_name2_succeeded">İsim başarıyla kopyalandı</string>
+    <string name="copy_name_succeeded">İsim başarıyla kopyalandı</string>
+    <string name="copy_number">Numarayı Kopyala</string>
+    <string name="copy_number_succeeded">Numara kopyalandı</string>
+    <string name="country_code">Ülke Kodu</string>
+    <string name="country_region">Ülke / Bölge</string>
+    <string name="create_an_account_on_to_use_all_nthe_features">Tüm özellikleri kullanmak için bir hesap oluşturun</string>
+    <string name="data_process_icon">Veri İşleme İkonu</string>
+    <string name="data_use_icon">Veri Kullanım İkonu</string>
+    <string name="data_we_process">İşlediğimiz veriler</string>
+    <string name="delete">Sil</string>
+    <string name="delete_account">Hesabı Sil</string>
+    <string name="describe_it_to_improve_whocaller">WhoCaller\'ı geliştirmek için açıklayın</string>
+    <string name="dialog_edit_contact_error">Bir Hata Oluştu.</string>
+    <string name="didn_t_receive_a_code">Kod gelmedi mi?</string>
+    <string name="dismiss">Yoksay</string>
+    <string name="do_you_want_to_block_contact">Bu kişiyi engellemek istiyor musunuz?</string>
+    <string name="do_you_want_to_block_this_contact">Bu kişiyi engellemek istiyor musunuz?</string>
+    <string name="do_you_want_to_unblock_contact">Bu kişinin engelini kaldırmak istiyor musunuz?</string>
+    <string name="do_you_want_to_unblock_this_contact">Bu kişinin engelini kaldırmak istiyor musunuz?</string>
+    <string name="don_t_have_an_account">Hesabınız yok mu?</string>
+    <string name="edit">Düzenle</string>
+    <string name="edit_profile">Profili Düzenle</string>
+    <string name="email">E-posta</string>
+    <string name="email_mobile_no">E-posta</string>
+    <string name="emobileno">Telefon Numarası Girin</string>
+    <string name="empower_icon">Güçlendirme İkonu</string>
+    <string name="ename">İsim Girin</string>
+    <string name="end_call">Bitir</string>
+    <string name="enter_your_email">E-postanızı Girin</string>
+    <string name="enter_your_phone_number">Telefon Numaranızı Girin</string>
+    <string name="envalid_number">Geçersiz telefon numarası</string>
+    <string name="epassword">Şifre Girin</string>
+    <string name="error_occurred">Bir hata oluştu, daha sonra tekrar deneyin.</string>
+    <string name="evalidmobile">Geçerli bir telefon numarası girin</string>
+    <string name="evalisemail">Geçerli bir e-posta adresi girin</string>
+    <string name="failed_to_update_contact">Kişi güncellenemedi</string>
+    <string name="favourites">Sık Kullanılanlar</string>
+    <string name="favourites2">Favorilerim</string>
+    <string name="feedback">Geri Bildirim</string>
+    <string name="first_name">Ad</string>
+    <string name="forgot_password">Şifremi Unuttum!</string>
+    <string name="generate_otp">OTP Oluştur</string>
+    <string name="hold">Beklet</string>
+    <string name="hold_and_answer">Beklet &amp; Yanıtla</string>
+    <string name="how_we_use_your_data">Verilerinizi nasıl kullanıyoruz</string>
+    <string name="identified">Bulunanlar</string>
+    <string name="identified_by_whocaller">Whocaller tarafından tanımlandı</string>
+    <string name="if_you_have_an_account">Zaten bir hesabınız varsa?</string>
+    <string name="in_your_contacts">KİŞİLERİNİZDE</string>
+    <string name="incoming_call">Gelen arama</string>
+    <string name="incoming_calls">Gelen aramalar</string>
+    <string name="invalid_contact">Düzenleme için geçersiz kişi bilgisi.</string>
+    <string name="is_this_a_business">Bu bir işletme mi?</string>
+    <string name="keypad">Tuş Takımı</string>
+    <string name="last_name">Soyad</string>
+    <string name="let_s_get_started">Haydi Başlayalım!</string>
+    <string name="likely_a_business">Büyük olasılıkla bir işletme</string>
+    <string name="likely_a_person">Büyük olasılıkla bir kişi</string>
+    <string name="location">Konum</string>
+    <string name="log_in_to_your_existing_account">Mevcut hesabınıza giriş yapın</string>
+    <string name="login">Giriş Yap</string>
+    <string name="login_here">Buradan Giriş Yapın</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="love_this_app">Bu uygulamayı seviyor musunuz? Google Play Store\'da nasıl daha iyi olabileceğimizi bize bildirin</string>
+    <string name="made_with_in">Shadowsocks ❤ ile Yapıldı</string>
+    <string name="maintenance_description">Planlı bakım çalışmaları yapıyoruz. Kısa süre içinde tekrar açılacaktır.</string>
+    <string name="maintenance_title">Bakım Nedeniyle Geçici Olarak Kapalı</string>
+    <string name="menu_privacy">Gizlilik Politikası</string>
+    <string name="missed_call">Cevapsız Çağrı</string>
+    <string name="missed_calls">Kaçırılan aramalar</string>
+    <string name="mobile">Telefon</string>
+    <string name="mobile_no">Telefon Numarası</string>
+    <string name="mobitel">Mobil</string>
+    <string name="more_info_available">Daha fazla bilgi mevcut</string>
+    <string name="mute">Sessiz</string>
+    <string name="mute_call">Mikrofonu Kapat</string>
+    <string name="my_account">Hesabım</string>
+    <string name="my_contacts">Kişilerim</string>
+    <string name="name">İsim</string>
+    <string name="name2">"Adı: "</string>
+    <string name="name_or_number">Geçerli bir isim veya numara girin</string>
+    <string name="next_profile_status">Sonraki profil durumu</string>
+    <string name="no">Hayır</string>
+    <string name="no_call_history">Arama geçmişi yok..</string>
+    <string name="no_contacts_found">Kayıtlı kişi bulunamadı!</string>
+    <string name="not_a_business_or_wrong_name">İşletme değil veya yanlış isim mi?</string>
+    <string name="not_supported">Cihazınız kişi düzenlemeyi veya görüntülemeyi desteklemiyor!</string>
+    <string name="notification">Bildirimler</string>
+    <string name="number">Numara</string>
+    <string name="number2">"\nNumara: "</string>
+    <string name="ok">TAMAM</string>
+    <string name="or_with">Veya</string>
+    <string name="outgoing_calls">Giden aramalar</string>
+    <string name="password">Şifre</string>
+    <string name="permission_needed">Kişi düzenlemek için gerekli izinler yok!</string>
+    <string name="permissions">İzinler</string>
+    <string name="permissions_and_privacy">İzinler ve gizlilik</string>
+    <string name="person">Kişi</string>
+    <string name="phone">Telefon</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="please_enter_valid_name">Lütfen geçerli bir isim girin</string>
+    <string name="please_review_the">Lütfen aşağıda Gizlilik Politikamızın ve Hizmet Şartlarımızın önemli noktalarını inceleyin</string>
+    <string name="please_save_contact">Favorilere eklemeden önce kişiyi kaydedin</string>
+    <string name="please_select_an_option">Lütfen bir seçenek belirleyin</string>
+    <string name="privacy_is_integral">Gizlilik, Whocaller\’in kültürünün ve süreçlerinin ayrılmaz bir parçasıdır. Tüm özelliklerimizin gizlilik etkilerini sürekli değerlendiriyoruz. İşlediğimiz veriler yalnızca gizlilik politikamızda belirtilen amaçlar için kullanılır, bunlar şunları içerir:\n\n- Whocaller\’in sunduğu hizmetleri sağlamak (telefon numarası tanıma dahil ancak bununla sınırlı olmamak üzere), örneğin; arayan kimliği ve profil verilerini sizin veya başka bir kullanıcının arama yapması veya mesaj göndermesi durumunda göstermek için rehber bilgilerinizi, profil verilerinizi ve hizmetlerimize erişim sağladığınızda bize verdiğiniz bilgileri kullanırız.\n- Hizmetlerimizi sağlamak, geliştirmek, zenginleştirmek, analiz etmek ve kişiselleştirmek, böylece uygulamamızla en iyi deneyimi yaşamanızı sağlamak.\n- Yerel yasalara uymak ve haklarınızı korumak.\n- Hizmetlerimizi iyileştirmek amacıyla anonimleştirilmiş ve toplu veriler kullanılarak istatistiksel ve analitik raporlar oluşturmak.</string>
+    <string name="privacy_policy">Gizlilik Politikası</string>
+    <string name="profile">Profil</string>
+    <string name="rate_the_app">Uygulamayı Değerlendirin</string>
+    <string name="re_with_us">Kullanıcılarımızın gizliliğine bağlıyız ve bizimle paylaştığınız veriler konusunda büyük özen gösteriyoruz. Verilerinizi, gizlilik politikamıza uygun olarak güvenli bir şekilde işliyor ve yönetiyoruz. İşlediğimiz veriler, uygulamamızı nasıl kullandığınıza bağlıdır. Profilinizi oluşturmak için yalnızca telefon numaranız / sosyal giriş bilgileriniz ve adınızı talep ederiz. Kullanımınıza bağlı olarak ek bilgileri gerektiren isteğe bağlı özellikler sunmaktayız. Uygulamamızı kullanmaya başladığınızda, uygulamamızla olan etkileşimleriniz, eriştiğiniz cihazlar hakkında bilgiler (yüklenmiş uygulamalar, IP adresi, gelen ve giden çağrılar ile mesajların anahtar kelimeleri ve meta verileri, rehberiniz, cihaz konumu ve benzersiz tanımlayıcılar gibi) toplanır ve işlenir.</string>
+    <string name="recents">Son Aramalar</string>
+    <string name="redirect_button">Güncellemeyi İndir</string>
+    <string name="redirect_message">Bu uygulamanın süresi doldu ve artık kullanılmıyor, en son güncellemeyi indirmek için aşağıdaki düğmeye basın.</string>
+    <string name="redirect_title">Yeni Uygulama Güncellemeleri</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="reject">Reddet</string>
+    <string name="rejected_calls">Reddedilen aramalar</string>
+    <string name="removed_from_favourites">%1$s favorilerden kaldırıldı</string>
+    <string name="report_contact">Kişiyi Bildir</string>
+    <string name="report_contact2">Spam Bildir</string>
+    <string name="report_contact3">Report Contact</string>
+    <string name="report_contact_title">Kişiyi Rapor Et</string>
+    <string name="report_revoked_successfully">Şikayet başarıyla geri alındı</string>
+    <string name="resend">Yeniden Gönder</string>
+    <string name="reste_password">Şifreyi Sıfırla</string>
+    <string name="revoke_report">Bildirimi Geri Çek</string>
+    <string name="revoke_report2">Şikayeti Geri Al</string>
+    <string name="revoke_report_title">Raporu Geri Al</string>
+    <string name="ringtone_silenced">Zil sesi kapatıldı</string>
+    <string name="save">Kaydet</string>
+    <string name="save_changes">Değişiklikleri Kaydet</string>
+    <string name="save_contact_first">Lütfen kişiyi favorilere eklemeden önce kaydedin</string>
+    <string name="search">Whocaller İle Bul</string>
+    <string name="search_contacts">Kişilerde ara</string>
+    <string name="search_description">Arayanı Whocaller ile keşfedin! \n Numara ile kişi bulma aracı. \nBu uygulama altyapısı birden fazla sorgulama hizmetini bir arada tutar \n 11818 gibi birden fazla altyapılardan veri ücretsiz olarak listelenmektedir. . \n Tam performanslı sonuç için 10 haneli şekilde kullanın:5553331122 </string>
+    <string name="search_number_names">Numara veya isim ara</string>
+    <string name="searching">Aranıyor..</string>
+    <string name="security_and_privacy"><![CDATA[Güvenlik & Gizlilik]]></string>
+    <string name="selected">"Seçilen: "</string>
+    <string name="set_as_default">Varsayılan Yap</string>
+    <string name="set_caller_id_as_default_dialer">"Gelişmiş özelliklerle geliştirilmiş arama deneyimi için
+Whocaller\'ı varsayılan telefon uygulamanız yapın."</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="share_contact">Kişiyi Paylaş</string>
+    <string name="share_text">Whocaller - Android Arayan Kimliği uygulamasını sizinle paylaşmak istiyorum. Uygulamayı Play Store\'dan indirebilirsiniz</string>
+    <string name="share_the_app">Uygulamayı arkadaşlarınız ve ailenizle paylaşın</string>
+    <string name="show_after_call_details">Arama sonrası detayları göster</string>
+    <string name="show_all_calls">Tüm aramaları göster</string>
+    <string name="show_caller_id">Arayan Kimliğini Göster</string>
+    <string name="show_caller_id_for_contacts">Kişiler için Arayan Kimliğini Göster</string>
+    <string name="show_details">show_details</string>
+    <string name="show_info_during_call">Arama sırasında bilgi göster</string>
+    <string name="show_information_during_phone_calls">Telefon görüşmelerinde bilgi göster</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="sign_in_with_google">Google ile Giriş Yap</string>
+    <string name="sign_phone">Telefon ile Giriş Yap</string>
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="silence_ringtone">Zili Kapat</string>
+    <string name="sing">Kayıt Ol</string>
+    <string name="skip_for_now">Şimdilik Atla</string>
+    <string name="sms">Sms Gönder</string>
+    <string name="sound_and_notifications">Ses ve bildirimler</string>
+    <string name="spam_calls_identified">Tanımlanmış spam aramalar</string>
+    <string name="spam_list">Spam Çağrılar</string>
+    <string name="spam_user">Spam Çağrı</string>
+    <string name="spammer">Sahtekarlık</string>
+    <string name="speaker">Hoparlör</string>
+    <string name="speaker_off">Hoparlör</string>
+    <string name="speaker_on">Hoparlör</string>
+    <string name="spinner_title">Ülke Seçin</string>
+    <string name="suggest_a_better_name">Daha iyi bir isim öner</string>
+    <string name="tag_beauty">Güzellik &amp; Kişisel Bakım</string>
+    <string name="tag_education">Eğitim</string>
+    <string name="tag_entertainment">Eğlence &amp; Sanat</string>
+    <string name="tag_fake_betting">BET &amp; Bahis &amp; Kumar</string>
+    <string name="tag_fake_health_products">Sahte Sağlık Ürünleri</string>
+    <string name="tag_fake_job_offer">Sahte İş Teklifleri</string>
+    <string name="tag_fake_loan">Kredi &amp; Kart Dolandırıcılığı</string>
+    <string name="tag_fake_rental">Sahte Araç &amp; otel Kiralama</string>
+    <string name="tag_fake_shopping">Sahte Alışveriş Siteleri</string>
+    <string name="tag_fake_technical_support">Sahte Teknik Servis</string>
+    <string name="tag_finance">Finans &amp; Sigorta</string>
+    <string name="tag_health">Sağlık &amp; Wellness</string>
+    <string name="tag_hotels">Oteller &amp; Konaklama</string>
+    <string name="tag_identity_theft">Kimlik Hırsızlığı</string>
+    <string name="tag_legal">Hukuk</string>
+    <string name="tag_nightlife">Gece Hayatı &amp; İçecekler</string>
+    <string name="tag_phishing">Kimlik Avı (Phishing)</string>
+    <string name="tag_property">Gayrimenkul</string>
+    <string name="tag_pyramid_schemes">Ponzi &amp; Piramit Sistemleri</string>
+    <string name="tag_religious">Dini Mekan</string>
+    <string name="tag_restaurants">Restoranlar &amp; Kafeler</string>
+    <string name="tag_services">Hizmetler</string>
+    <string name="tag_shopping">Alışveriş &amp; Marketler</string>
+    <string name="tag_social_engineering">Sosyal Mühendislik Dolandırıcılığı</string>
+    <string name="tag_social_media_scam">Sosyal Medya Dolandırıcılığı</string>
+    <string name="tag_sports">Spor &amp; Rekreasyon</string>
+    <string name="tag_transportation">Ulaşım &amp; Otomotiv</string>
+    <string name="tag_travel">Seyahat &amp; Turizm</string>
+    <string name="terms_of_service">Hizmet Şartları</string>
+    <string name="toast_improving">Whocaller\'ı geliştirdiğiniz için teşekkürler!</string>
+    <string name="top">Üst</string>
+    <string name="try_again_later">Daha sonra tekrar deneyin</string>
+    <string name="unblock">Engeli Kaldır</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="unknown_numbers_identified">Tanımlanmış bilinmeyen numaralar</string>
+    <string name="unmute">Sesi Aç</string>
+    <string name="update_app">Uygulamayı Güncelle</string>
+    <string name="upgrade_to_premium_to_view">Görüntülemek için Premium\'a yükseltin</string>
+    <string name="verification_description">Lütfen telefon numaranıza gönderdiğimiz kodu girin</string>
+    <string name="verification_phone">Telefon Doğrulama</string>
+    <string name="version">Versiyon</string>
+    <string name="view_all">TÜMÜNÜ GÖRÜNTÜLE</string>
+    <string name="view_info">Bilgi Görüntüle</string>
+    <string name="view_mode_message">Kişiyi görüntüleyerek düzenleme butonunu kullanabilirsiniz.</string>
+    <string name="view_profile">PROFİL</string>
+    <string name="we_empower">Whocaller\'de nasıl görüneceğiniz konusunda size yetki veriyoruz</string>
+    <string name="we_entrust_you">Size kontrol ve koruma gücünü emanet ediyoruz. Kişisel bilgilerinizin toplulukta nasıl görüneceğine siz karar verebilirsiniz. Profilinizi uygulama içinde dilediğiniz zaman düzenleyebilir veya hesabınızı devre dışı bırakabilirsiniz. Bilgilerinizin Whocaller\'de yer almasını istemiyorsanız, kendinizi listeden çıkarabilirsiniz.</string>
+    <string name="we_will_send_reset_link">Lütfen e-postanızı girin, size bir sıfırlama bağlantısı göndereceğiz.</string>
+    <string name="we_will_send_you_the_6_digit_verification_code">Lütfen telefon numaranızı girin, size 6 haneli doğrulama kodunu göndereceğiz</string>
+    <string name="website">Web Sitesi</string>
+    <string name="welcome_back">Tekrar Hoş Geldiniz 👋</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="whocaller_contact_search">Whocaller - Kişi Arama</string>
+    <string name="yes">Evet</string>
+    <string name="you_need_to_enter_the_last_4_characters">En az 10 karakter girmelisiniz.</string>
+    <string name="your_email">E-postanız</string>
+    <string name="your_name">Adınız</string>
+    <string name="your_password">Şifreniz</string>
+</resources>
