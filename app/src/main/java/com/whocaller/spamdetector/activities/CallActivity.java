@@ -420,7 +420,12 @@ public class CallActivity extends AppCompatActivity {
         audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
         // Fiziksel ses tuşları ile RING ses seviyesini kontrol edebilmek için
         setVolumeControlStream(AudioManager.STREAM_RING);
-
+// Arama aktifleştiğinde zil sesini durdur
+        callStateLiveData.observe(this, state -> {
+            if (state == Call.STATE_ACTIVE) {
+                NotificationHelper.stopRingtone(this);
+            }
+        });
         // LiveData observer'lar
         callerNameLiveData.observe(this, new Observer<String>() {
             @Override

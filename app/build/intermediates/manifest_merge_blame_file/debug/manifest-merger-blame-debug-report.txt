@@ -9,72 +9,72 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-feature
-11-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:7:5-9:36
+11-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:7:5-9:36
 12        android:name="android.hardware.telephony"
-12-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:8:9-50
+12-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:8:9-50
 13        android:required="false" />
-13-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:9:9-33
+13-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:9:9-33
 14
 15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-15-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:10:5-76
-15-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:10:22-73
+15-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:10:5-76
+15-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:10:22-73
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:11:5-79
-16-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:11:22-76
+16-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:11:5-79
+16-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:11:22-76
 17    <uses-permission android:name="android.permission.CALL_PHONE" />
-17-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:12:5-69
-17-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:12:22-66
+17-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:12:5-69
+17-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:12:22-66
 18    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-18-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:13:5-77
-18-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:13:22-74
+18-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:13:5-77
+18-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:13:22-74
 19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-19-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:14:5-75
-19-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:14:22-72
+19-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:14:5-75
+19-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:14:22-72
 20    <uses-permission android:name="android.permission.READ_CONTACTS" />
-20-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:15:5-72
-20-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:15:22-69
+20-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:15:5-72
+20-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:15:22-69
 21    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-21-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:16:5-73
-21-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:16:22-70
+21-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:16:5-73
+21-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:16:22-70
 22    <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
-22-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:17:5-77
-22-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:17:22-74
+22-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:17:5-77
+22-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:17:22-74
 23    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
-23-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:18:5-81
-23-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:18:22-78
+23-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:18:5-81
+23-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:18:22-78
 24    <uses-permission android:name="android.permission.READ_CALL_LOG" />
-24-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:19:5-72
-24-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:19:22-69
+24-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:19:5-72
+24-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:19:22-69
 25    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
-25-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:20:5-73
-25-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:20:22-70
+25-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:20:5-73
+25-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:20:22-70
 26    <uses-permission android:name="android.permission.INTERNET" />
-26-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:21:5-67
-26-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:21:22-64
+26-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:21:5-67
+26-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:21:22-64
 27    <uses-permission android:name="android.permission.READ_PHONE_NUMBERS" />
-27-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:22:5-77
-27-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:22:22-74
+27-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:22:5-77
+27-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:22:22-74
 28    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
-28-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:23:5-25:47
-28-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:24:9-70
+28-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:23:5-25:47
+28-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:24:9-70
 29    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
-29-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:26:5-75
-29-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:26:22-72
+29-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:26:5-75
+29-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:26:22-72
 30    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-30-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:27:5-76
-30-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:27:22-73
+30-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:27:5-76
+30-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:27:22-73
 31    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-31-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:30:5-80
-31-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:30:22-77
+31-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:30:5-80
+31-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:30:22-77
 32    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-32-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:31:5-33:40
-32-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:32:9-65
+32-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:31:5-33:40
+32-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:32:9-65
 33    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-33-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:37:5-78
-33-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:37:22-75
+33-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:37:5-78
+33-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:37:22-75
 34    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
-34-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:39:5-41:47
-34-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:40:9-61
+34-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:39:5-41:47
+34-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:40:9-61
 35
 36    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
 37    <permission
@@ -186,8 +186,8 @@
 82-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
 83
 84            <data android:scheme="https" />
-84-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:17-46
-84-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:23-43
+84-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:17-46
+84-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:23-43
 85        </intent>
 86        <!-- End of browser content -->
 87        <!-- For CustomTabsService -->
@@ -216,300 +216,300 @@
 100-->[androidx.core:core:1.13.0] C:\Users\guzel\.gradle\caches\transforms-3\772dc1a13540af73fee1b54b832eb578\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 101
 102    <application
-102-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:49:5-226:19
+102-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:49:5-227:19
 103        android:name="com.whocaller.spamdetector.activities.MyApplication"
-103-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:50:9-75
+103-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:50:9-75
 104        android:allowBackup="true"
-104-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:51:9-35
+104-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:51:9-35
 105        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 105-->[androidx.core:core:1.13.0] C:\Users\guzel\.gradle\caches\transforms-3\772dc1a13540af73fee1b54b832eb578\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 106        android:debuggable="true"
 107        android:extractNativeLibs="false"
 108        android:hardwareAccelerated="true"
-108-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:53:9-43
+108-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:53:9-43
 109        android:icon="@mipmap/ic_launcher"
-109-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:57:9-43
+109-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:57:9-43
 110        android:label="@string/app_name"
-110-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:58:9-41
+110-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:58:9-41
 111        android:largeHeap="true"
-111-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:54:9-33
+111-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:54:9-33
 112        android:networkSecurityConfig="@xml/network_security_config"
-112-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:59:9-69
+112-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:59:9-69
 113        android:requestLegacyExternalStorage="true"
-113-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:55:9-52
+113-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:55:9-52
 114        android:roundIcon="@mipmap/ic_launcher_round"
-114-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:60:9-54
+114-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:60:9-54
 115        android:supportsRtl="true"
-115-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:61:9-35
+115-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:61:9-35
 116        android:testOnly="true"
 117        android:theme="@style/AppTheme"
-117-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:62:9-40
+117-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:62:9-40
 118        android:usesCleartextTraffic="true" >
-118-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:63:9-44
+118-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:63:9-44
 119        <meta-data
-119-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:65:9-67:52
+119-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:65:9-67:52
 120            android:name="com.google.android.gms.ads.APPLICATION_ID"
-120-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:66:13-69
+120-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:66:13-69
 121            android:value="@string/admob_app_id" />
-121-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:67:13-49
+121-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:67:13-49
 122
 123        <activity
-123-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:69:9-80:20
+123-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:69:9-80:20
 124            android:name="com.whocaller.spamdetector.activities.SplashActivity"
-124-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:70:13-80
+124-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:70:13-80
 125            android:exported="true"
-125-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:71:13-36
+125-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:71:13-36
 126            android:screenOrientation="portrait"
-126-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:72:13-49
+126-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:72:13-49
 127            android:theme="@style/SplashTheme" >
-127-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:73:13-47
+127-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:73:13-47
 128            <intent-filter>
-128-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:75:13-79:29
+128-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:75:13-79:29
 129                <action android:name="android.intent.action.MAIN" />
-129-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:76:17-69
-129-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:76:25-66
+129-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:76:17-69
+129-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:76:25-66
 130
 131                <category android:name="android.intent.category.LAUNCHER" />
-131-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:78:17-77
-131-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:78:27-74
+131-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:78:17-77
+131-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:78:27-74
 132            </intent-filter>
 133        </activity>
 134        <activity
-134-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:81:9-86:55
+134-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:81:9-86:55
 135            android:name="com.whocaller.spamdetector.activities.MainActivity"
-135-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:82:13-78
+135-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:82:13-78
 136            android:exported="true"
-136-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:83:13-36
+136-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:83:13-36
 137            android:screenOrientation="portrait"
-137-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:84:13-49
+137-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:84:13-49
 138            android:theme="@style/SplashTheme" />
-138-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:85:13-47
+138-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:85:13-47
 139        <activity
-139-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:87:9-91:55
+139-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:87:9-91:55
 140            android:name="com.whocaller.spamdetector.activities.SettingsActivity"
-140-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:88:13-82
+140-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:88:13-82
 141            android:exported="false"
-141-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:89:13-37
+141-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:89:13-37
 142            android:screenOrientation="portrait" />
-142-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:90:13-49
+142-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:90:13-49
 143        <activity
-143-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:92:9-96:55
+143-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:92:9-96:55
 144            android:name="com.whocaller.spamdetector.activities.RedirectActivity"
-144-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:93:13-82
+144-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:93:13-82
 145            android:exported="false"
-145-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:94:13-37
+145-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:94:13-37
 146            android:screenOrientation="portrait" />
-146-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:95:13-49
+146-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:95:13-49
 147        <activity
-147-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:97:9-104:56
+147-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:97:9-104:56
 148            android:name="com.whocaller.spamdetector.activities.CustomDialogActivity"
-148-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:98:13-86
+148-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:98:13-86
 149            android:excludeFromRecents="true"
-149-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:99:13-46
+149-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:99:13-46
 150            android:label=""
-150-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:100:13-29
+150-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:100:13-29
 151            android:screenOrientation="portrait"
-151-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:101:13-49
+151-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:101:13-49
 152            android:taskAffinity=""
-152-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:102:13-36
+152-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:102:13-36
 153            android:theme="@style/DialogTheme.NoActionBar" />
-153-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:103:13-59
+153-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:103:13-59
 154        <activity
-154-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:105:9-109:56
+154-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:105:9-109:56
 155            android:name="com.whocaller.spamdetector.activities.AboutActivity"
-155-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:106:13-79
+155-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:106:13-79
 156            android:exported="false"
-156-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:107:13-37
+156-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:107:13-37
 157            android:screenOrientation="portrait" />
-157-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:108:13-49
+157-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:108:13-49
 158        <activity
-158-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:110:9-114:56
+158-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:110:9-114:56
 159            android:name="com.whocaller.spamdetector.activities.ActivityWebView"
-159-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:111:13-81
+159-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:111:13-81
 160            android:exported="false"
-160-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:112:13-37
+160-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:112:13-37
 161            android:screenOrientation="portrait" />
-161-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:113:13-49
+161-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:113:13-49
 162        <activity
-162-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:115:9-119:56
+162-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:115:9-119:56
 163            android:name="com.whocaller.spamdetector.activities.AllCallHistoryActivity"
-163-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:116:13-88
+163-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:116:13-88
 164            android:exported="false"
-164-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:117:13-37
+164-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:117:13-37
 165            android:screenOrientation="portrait" />
-165-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:118:13-49
+165-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:118:13-49
 166        <activity
-166-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:120:9-124:56
+166-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:120:9-124:56
 167            android:name="com.whocaller.spamdetector.activities.BlockSpamActivity"
-167-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:121:13-83
+167-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:121:13-83
 168            android:exported="false"
-168-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:122:13-37
+168-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:122:13-37
 169            android:screenOrientation="portrait" />
-169-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:123:13-49
+169-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:123:13-49
 170        <activity
-170-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:125:9-129:56
+170-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:125:9-129:56
 171            android:name="com.yalantis.ucrop.UCropActivity"
-171-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:126:13-60
+171-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:126:13-60
 172            android:screenOrientation="portrait"
-172-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:127:13-49
+172-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:127:13-49
 173            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-173-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:128:13-69
+173-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:128:13-69
 174        <activity
-174-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:130:9-134:56
+174-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:130:9-134:56
 175            android:name="com.whocaller.spamdetector.activities.SearchActivity"
-175-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:131:13-80
+175-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:131:13-80
 176            android:exported="false"
-176-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:132:13-37
+176-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:132:13-37
 177            android:screenOrientation="portrait" />
-177-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:133:13-49
+177-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:133:13-49
 178        <activity
-178-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:135:9-139:56
+178-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:135:9-139:56
 179            android:name="com.whocaller.spamdetector.activities.MyAccountActivity"
-179-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:136:13-83
+179-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:136:13-83
 180            android:exported="false"
-180-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:137:13-37
+180-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:137:13-37
 181            android:screenOrientation="portrait" />
-181-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:138:13-49
+181-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:138:13-49
 182        <activity
-182-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:140:9-144:56
+182-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:140:9-144:56
 183            android:name="com.whocaller.spamdetector.activities.ProfileActivity"
-183-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:141:13-81
+183-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:141:13-81
 184            android:exported="false"
-184-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:142:13-37
+184-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:142:13-37
 185            android:screenOrientation="portrait" />
-185-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:143:13-49
+185-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:143:13-49
 186        <activity
-186-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:145:9-149:56
+186-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:145:9-149:56
 187            android:name="com.whocaller.spamdetector.activities.ForgotPasswordActivity"
-187-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:146:13-88
+187-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:146:13-88
 188            android:exported="false"
-188-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:147:13-37
+188-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:147:13-37
 189            android:screenOrientation="portrait" />
-189-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:148:13-49
+189-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:148:13-49
 190        <activity
-190-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:150:9-154:56
+190-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:150:9-154:56
 191            android:name="com.whocaller.spamdetector.activities.LoginActivity"
-191-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:151:13-79
+191-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:151:13-79
 192            android:exported="false"
-192-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:152:13-37
+192-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:152:13-37
 193            android:screenOrientation="portrait" />
-193-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:153:13-49
+193-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:153:13-49
 194        <activity
-194-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:155:9-159:56
+194-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:155:9-159:56
 195            android:name="com.whocaller.spamdetector.activities.OtpActivity"
-195-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:156:13-77
+195-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:156:13-77
 196            android:exported="false"
-196-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:157:13-37
+196-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:157:13-37
 197            android:screenOrientation="portrait" />
-197-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:158:13-49
+197-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:158:13-49
 198        <activity
-198-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:160:9-164:56
+198-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:160:9-164:56
 199            android:name="com.whocaller.spamdetector.activities.RegisterActivity"
-199-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:161:13-82
+199-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:161:13-82
 200            android:exported="false"
-200-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:162:13-37
+200-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:162:13-37
 201            android:screenOrientation="portrait" />
-201-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:163:13-49
+201-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:163:13-49
 202        <activity
-202-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:165:9-169:55
+202-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:165:9-169:55
 203            android:name="com.whocaller.spamdetector.activities.ContactDetailsActivity"
-203-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:166:13-88
+203-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:166:13-88
 204            android:exported="true"
-204-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:167:13-36
+204-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:167:13-36
 205            android:screenOrientation="portrait" />
-205-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:168:13-49
+205-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:168:13-49
 206        <activity
-206-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:170:9-174:56
+206-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:170:9-174:56
 207            android:name="com.whocaller.spamdetector.activities.CallHistoryActivity"
-207-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:171:13-85
+207-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:171:13-85
 208            android:exported="true"
-208-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:172:13-36
+208-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:172:13-36
 209            android:screenOrientation="portrait" />
-209-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:173:13-49
+209-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:173:13-49
 210        <activity
-210-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:175:9-193:20
+210-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:175:9-193:20
 211            android:name="com.whocaller.spamdetector.activities.CallActivity"
-211-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:176:13-78
+211-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:176:13-78
 212            android:exported="true"
-212-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:177:13-36
+212-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:177:13-36
 213            android:screenOrientation="portrait"
-213-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:178:13-49
+213-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:178:13-49
 214            android:showOnLockScreen="true" >
-214-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:179:13-44
+214-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:179:13-44
 215            <intent-filter>
-215-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:181:13-185:29
+215-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:181:13-185:29
 216                <action android:name="android.intent.action.DIAL" />
-216-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:17-69
-216-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:25-66
+216-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:17-69
+216-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:25-66
 217
 218                <category android:name="android.intent.category.DEFAULT" />
-218-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:17-76
-218-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:27-73
+218-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:17-76
+218-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:27-73
 219            </intent-filter>
 220            <intent-filter>
-220-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:186:13-192:29
+220-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:186:13-192:29
 221                <action android:name="android.intent.action.DIAL" />
-221-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:17-69
-221-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:25-66
+221-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:17-69
+221-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:25-66
 222
 223                <category android:name="android.intent.category.DEFAULT" />
-223-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:17-76
-223-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:27-73
+223-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:17-76
+223-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:27-73
 224
 225                <data android:scheme="tel" />
-225-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:17-46
-225-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:23-43
+225-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:17-46
+225-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:23-43
 226            </intent-filter>
 227        </activity>
 228
 229        <receiver
-229-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:194:9-201:20
+229-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:194:9-201:20
 230            android:name="com.whocaller.spamdetector.helpers.ActionReceiver"
-230-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:194:19-57
+230-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:194:19-57
 231            android:exported="true" >
-231-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:195:13-36
+231-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:195:13-36
 232            <intent-filter>
-232-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:196:13-200:29
+232-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:196:13-200:29
 233                <action android:name="com.whocaller.spamdetector.helpers.ACTION_END_CALL" />
-233-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:197:17-92
-233-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:197:25-90
+233-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:197:17-92
+233-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:197:25-90
 234                <action android:name="com.whocaller.spamdetector.helpers.ACTION_SPEAKER_CALL" />
-234-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:198:17-96
-234-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:198:25-94
+234-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:198:17-96
+234-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:198:25-94
 235                <action android:name="com.whocaller.spamdetector.helpers.ACTION_MUTE_CALL" />
-235-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:199:17-93
-235-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:199:25-91
+235-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:199:17-93
+235-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:199:25-91
 236            </intent-filter>
 237        </receiver>
 238
 239        <service
-239-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:202:9-217:19
+239-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:203:9-218:19
 240            android:name="com.whocaller.spamdetector.services.CallService"
-240-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:203:13-75
+240-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:204:13-75
 241            android:enabled="true"
-241-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:204:13-35
+241-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:205:13-35
 242            android:exported="false"
-242-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:205:13-37
+242-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:206:13-37
 243            android:permission="android.permission.BIND_INCALL_SERVICE" >
-243-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:206:13-72
+243-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:207:13-72
 244            <meta-data
-244-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:207:13-209:40
+244-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:208:13-210:40
 245                android:name="android.telecom.IN_CALL_SERVICE_UI"
-245-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:208:17-66
+245-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:209:17-66
 246                android:value="true" />
-246-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:209:17-37
+246-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:210:17-37
 247            <meta-data
-247-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:210:13-212:40
+247-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:211:13-213:40
 248                android:name="android.telecom.IN_CALL_SERVICE_RINGING"
-248-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:211:17-71
+248-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:212:17-71
 249                android:value="true" />
-249-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:212:17-37
+249-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:213:17-37
 250
 251            <intent-filter>
-251-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:214:13-216:29
+251-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:215:13-217:29
 252                <action android:name="android.telecom.InCallService" />
-252-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:215:17-72
-252-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:215:25-69
+252-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:216:17-72
+252-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:216:25-69
 253            </intent-filter>
 254        </service>
 255
@@ -689,18 +689,18 @@
 347-->[com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:77:25-66
 348
 349                <category android:name="android.intent.category.DEFAULT" />
-349-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:17-76
-349-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:27-73
+349-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:17-76
+349-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:27-73
 350                <category android:name="android.intent.category.BROWSABLE" />
 350-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
 350-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
 351
 352                <data
-352-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:17-46
+352-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:17-46
 353                    android:host="firebase.auth"
 354                    android:path="/"
 355                    android:scheme="genericidp" />
-355-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:23-43
+355-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:23-43
 356            </intent-filter>
 357        </activity>
 358        <activity
@@ -722,18 +722,18 @@
 365-->[com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:77:25-66
 366
 367                <category android:name="android.intent.category.DEFAULT" />
-367-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:17-76
-367-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:27-73
+367-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:17-76
+367-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:27-73
 368                <category android:name="android.intent.category.BROWSABLE" />
 368-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
 368-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
 369
 370                <data
-370-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:17-46
+370-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:17-46
 371                    android:host="firebase.auth"
 372                    android:path="/"
 373                    android:scheme="recaptcha" />
-373-->C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:23-43
+373-->C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:23-43
 374            </intent-filter>
 375        </activity>
 376

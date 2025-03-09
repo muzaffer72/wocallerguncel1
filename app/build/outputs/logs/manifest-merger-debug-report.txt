@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:3:1-228:12
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:3:1-228:12
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:3:1-228:12
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:3:1-228:12
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:3:1-229:12
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:3:1-229:12
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:3:1-229:12
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:3:1-229:12
 MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\guzel\.gradle\caches\transforms-3\0138e2e536082aa738babe56f30c2fa9\transformed\jetified-viewbinding-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\guzel\.gradle\caches\transforms-3\e9b0092744cb981fb6bf2bd362fbdd0b\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\guzel\.gradle\caches\transforms-3\60333189dfb6aed43fc95462ec33fa98\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -114,28 +114,28 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\guzel\.
 MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\guzel\.gradle\caches\transforms-3\2e9c8b2c67b7218c1d1ef683a564e8f8\transformed\jetified-googleid-1.1.0\AndroidManifest.xml:2:1-7:12
 MERGED from [io.michaelrocks:libphonenumber-android:8.12.28] C:\Users\guzel\.gradle\caches\transforms-3\c0056aa7c019b967b893af42a48f889b\transformed\jetified-libphonenumber-android-8.12.28\AndroidManifest.xml:2:1-9:12
 	package
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:5:5-41
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:5:5-41
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:4:5-51
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:4:5-51
 	android:versionCode
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:3:11-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:3:11-69
 uses-feature#android.hardware.telephony
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:7:5-9:36
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:7:5-9:36
 	android:required
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:9:9-33
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:9:9-33
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:8:9-50
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:8:9-50
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:10:5-76
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:10:22-73
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:10:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:11:5-79
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:25:5-79
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
@@ -163,49 +163,49 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Use
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\guzel\.gradle\caches\transforms-3\bbf7935135f2765bf9845bfb44c874b3\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\guzel\.gradle\caches\transforms-3\bbf7935135f2765bf9845bfb44c874b3\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:12:5-69
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:12:5-69
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:12:22-66
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:12:22-66
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:13:5-77
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:13:5-77
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:16:5-77
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:16:5-77
 MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\guzel\.gradle\caches\transforms-3\19aeed063e1d7d1c88483cd3784d876b\transformed\jetified-firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
 MERGED from [com.google.firebase:firebase-messaging:24.0.0] C:\Users\guzel\.gradle\caches\transforms-3\19aeed063e1d7d1c88483cd3784d876b\transformed\jetified-firebase-messaging-24.0.0\AndroidManifest.xml:23:5-77
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:13:22-74
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:13:22-74
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:14:5-75
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:14:5-75
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:14:22-72
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:14:22-72
 uses-permission#android.permission.READ_CONTACTS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:15:5-72
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:15:5-72
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:15:22-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:15:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:16:5-73
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:16:5-73
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:16:22-70
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:16:22-70
 uses-permission#android.permission.ANSWER_PHONE_CALLS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:17:5-77
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:17:5-77
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:17:22-74
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:17:22-74
 uses-permission#android.permission.PROCESS_OUTGOING_CALLS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:18:5-81
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:18:22-78
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:18:22-78
 uses-permission#android.permission.READ_CALL_LOG
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:19:5-72
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:19:5-72
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:19:22-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:19:22-69
 uses-permission#android.permission.WRITE_CALL_LOG
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:20:5-73
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:20:5-73
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:20:22-70
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:20:22-70
 uses-permission#android.permission.INTERNET
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:21:5-67
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:21:5-67
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:17:5-67
 MERGED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:17:5-67
 MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
@@ -227,48 +227,48 @@ MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Use
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\guzel\.gradle\caches\transforms-3\bbf7935135f2765bf9845bfb44c874b3\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\guzel\.gradle\caches\transforms-3\bbf7935135f2765bf9845bfb44c874b3\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:21:22-64
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:21:22-64
 uses-permission#android.permission.READ_PHONE_NUMBERS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:22:5-77
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:22:5-77
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:22:22-74
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:22:22-74
 uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:23:5-25:47
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:23:5-25:47
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:25:9-44
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:25:9-44
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:24:9-70
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:24:9-70
 uses-permission#android.permission.MANAGE_OWN_CALLS
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:26:5-75
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:26:5-75
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:26:22-72
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:26:22-72
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:27:5-76
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:27:5-76
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:27:22-73
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:27:22-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:30:5-80
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:30:5-80
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:30:22-77
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:30:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:31:5-33:40
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:31:5-33:40
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:33:9-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:33:9-37
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:32:9-65
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:32:9-65
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:37:5-78
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:37:5-78
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:37:22-75
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:37:22-75
 uses-permission#android.permission.MODIFY_PHONE_STATE
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:39:5-41:47
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:39:5-41:47
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:41:9-44
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:41:9-44
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:40:9-61
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:40:9-61
 application
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:49:5-226:19
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:49:5-226:19
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:49:5-227:19
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:49:5-227:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\guzel\.gradle\caches\transforms-3\e9b0092744cb981fb6bf2bd362fbdd0b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\guzel\.gradle\caches\transforms-3\e9b0092744cb981fb6bf2bd362fbdd0b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\guzel\.gradle\caches\transforms-3\60333189dfb6aed43fc95462ec33fa98\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -348,329 +348,329 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\gu
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\guzel\.gradle\caches\transforms-3\61c1ba36899f54b8e5fc9126c1b397ae\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\guzel\.gradle\caches\transforms-3\61c1ba36899f54b8e5fc9126c1b397ae\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
 	android:extractNativeLibs
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 	android:requestLegacyExternalStorage
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:55:9-52
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:55:9-52
 	android:roundIcon
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:60:9-54
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:60:9-54
 	android:largeHeap
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:54:9-33
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:54:9-33
 	android:icon
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:57:9-43
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:57:9-43
 	android:networkSecurityConfig
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:59:9-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:59:9-69
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.0] C:\Users\guzel\.gradle\caches\transforms-3\772dc1a13540af73fee1b54b832eb578\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:61:9-35
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:61:9-35
 	android:label
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:58:9-41
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:58:9-41
 	android:hardwareAccelerated
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:53:9-43
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:53:9-43
 	android:allowBackup
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:51:9-35
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:51:9-35
 	android:theme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:62:9-40
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:62:9-40
 	android:usesCleartextTraffic
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:63:9-44
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:63:9-44
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:50:9-75
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:50:9-75
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:65:9-67:52
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:65:9-67:52
 	android:value
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:67:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:67:13-49
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:66:13-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:66:13-69
 activity#com.whocaller.spamdetector.activities.SplashActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:69:9-80:20
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:69:9-80:20
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:72:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:72:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:71:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:71:13-36
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:74:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:74:13-53
 	android:theme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:73:13-47
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:73:13-47
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:70:13-80
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:70:13-80
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:75:13-79:29
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:75:13-79:29
 action#android.intent.action.MAIN
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:76:17-69
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:76:17-69
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:76:25-66
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:76:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:78:17-77
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:78:17-77
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:78:27-74
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:78:27-74
 activity#com.whocaller.spamdetector.activities.MainActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:81:9-86:55
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:81:9-86:55
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:84:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:84:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:83:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:83:13-36
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:86:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:86:13-53
 	android:theme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:85:13-47
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:85:13-47
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:82:13-78
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:82:13-78
 activity#com.whocaller.spamdetector.activities.SettingsActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:87:9-91:55
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:87:9-91:55
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:90:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:90:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:89:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:89:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:91:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:91:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:88:13-82
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:88:13-82
 activity#com.whocaller.spamdetector.activities.RedirectActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:92:9-96:55
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:92:9-96:55
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:95:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:95:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:94:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:94:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:96:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:96:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:93:13-82
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:93:13-82
 activity#com.whocaller.spamdetector.activities.CustomDialogActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:97:9-104:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:97:9-104:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:101:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:101:13-49
 	android:label
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:100:13-29
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:100:13-29
 	android:excludeFromRecents
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:99:13-46
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:99:13-46
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:104:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:104:13-53
 	android:theme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:103:13-59
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:103:13-59
 	android:taskAffinity
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:102:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:102:13-36
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:98:13-86
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:98:13-86
 activity#com.whocaller.spamdetector.activities.AboutActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:105:9-109:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:105:9-109:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:108:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:108:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:107:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:107:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:109:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:109:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:106:13-79
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:106:13-79
 activity#com.whocaller.spamdetector.activities.ActivityWebView
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:110:9-114:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:110:9-114:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:113:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:113:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:112:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:112:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:114:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:114:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:111:13-81
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:111:13-81
 activity#com.whocaller.spamdetector.activities.AllCallHistoryActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:115:9-119:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:115:9-119:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:118:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:118:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:117:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:117:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:119:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:119:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:116:13-88
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:116:13-88
 activity#com.whocaller.spamdetector.activities.BlockSpamActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:120:9-124:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:120:9-124:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:123:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:123:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:122:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:122:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:124:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:124:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:121:13-83
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:121:13-83
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:125:9-129:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:125:9-129:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:127:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:127:13-49
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:129:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:129:13-53
 	android:theme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:128:13-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:128:13-69
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:126:13-60
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:126:13-60
 activity#com.whocaller.spamdetector.activities.SearchActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:130:9-134:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:130:9-134:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:133:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:133:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:132:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:132:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:134:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:134:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:131:13-80
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:131:13-80
 activity#com.whocaller.spamdetector.activities.MyAccountActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:135:9-139:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:135:9-139:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:138:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:138:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:137:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:137:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:139:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:139:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:136:13-83
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:136:13-83
 activity#com.whocaller.spamdetector.activities.ProfileActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:140:9-144:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:140:9-144:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:143:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:143:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:142:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:142:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:144:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:144:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:141:13-81
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:141:13-81
 activity#com.whocaller.spamdetector.activities.ForgotPasswordActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:145:9-149:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:145:9-149:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:148:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:148:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:147:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:147:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:149:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:149:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:146:13-88
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:146:13-88
 activity#com.whocaller.spamdetector.activities.LoginActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:150:9-154:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:150:9-154:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:153:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:153:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:152:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:152:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:154:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:154:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:151:13-79
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:151:13-79
 activity#com.whocaller.spamdetector.activities.OtpActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:155:9-159:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:155:9-159:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:158:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:158:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:157:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:157:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:159:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:159:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:156:13-77
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:156:13-77
 activity#com.whocaller.spamdetector.activities.RegisterActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:160:9-164:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:160:9-164:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:163:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:163:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:162:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:162:13-37
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:164:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:164:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:161:13-82
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:161:13-82
 activity#com.whocaller.spamdetector.activities.ContactDetailsActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:165:9-169:55
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:165:9-169:55
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:168:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:168:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:167:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:167:13-36
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:169:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:169:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:166:13-88
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:166:13-88
 activity#com.whocaller.spamdetector.activities.CallHistoryActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:170:9-174:56
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:170:9-174:56
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:173:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:173:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:172:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:172:13-36
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:174:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:174:13-53
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:171:13-85
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:171:13-85
 activity#com.whocaller.spamdetector.activities.CallActivity
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:175:9-193:20
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:175:9-193:20
 	android:screenOrientation
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:178:13-49
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:178:13-49
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:177:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:177:13-36
 	tools:ignore
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:180:13-53
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:180:13-53
 	android:showOnLockScreen
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:179:13-44
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:179:13-44
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:176:13-78
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:176:13-78
 intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:181:13-185:29
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:181:13-185:29
 action#android.intent.action.DIAL
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:17-69
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:17-69
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:182:25-66
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:182:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:17-76
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:17-76
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:184:27-73
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:184:27-73
 intent-filter#action:name:android.intent.action.DIAL+category:name:android.intent.category.DEFAULT+data:scheme:tel
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:186:13-192:29
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:186:13-192:29
 data
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:17-46
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:17-46
 	android:scheme
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:191:23-43
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:191:23-43
 receiver#com.whocaller.spamdetector.helpers.ActionReceiver
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:194:9-201:20
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:194:9-201:20
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:195:13-36
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:195:13-36
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:194:19-57
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:194:19-57
 intent-filter#action:name:com.whocaller.spamdetector.helpers.ACTION_END_CALL+action:name:com.whocaller.spamdetector.helpers.ACTION_MUTE_CALL+action:name:com.whocaller.spamdetector.helpers.ACTION_SPEAKER_CALL
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:196:13-200:29
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:196:13-200:29
 action#com.whocaller.spamdetector.helpers.ACTION_END_CALL
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:197:17-92
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:197:17-92
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:197:25-90
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:197:25-90
 action#com.whocaller.spamdetector.helpers.ACTION_SPEAKER_CALL
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:198:17-96
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:198:17-96
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:198:25-94
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:198:25-94
 action#com.whocaller.spamdetector.helpers.ACTION_MUTE_CALL
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:199:17-93
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:199:17-93
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:199:25-91
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:199:25-91
 service#com.whocaller.spamdetector.services.CallService
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:202:9-217:19
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:203:9-218:19
 	android:enabled
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:204:13-35
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:205:13-35
 	android:exported
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:205:13-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:206:13-37
 	android:permission
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:206:13-72
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:207:13-72
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:203:13-75
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:204:13-75
 meta-data#android.telecom.IN_CALL_SERVICE_UI
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:207:13-209:40
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:208:13-210:40
 	android:value
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:209:17-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:210:17-37
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:208:17-66
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:209:17-66
 meta-data#android.telecom.IN_CALL_SERVICE_RINGING
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:210:13-212:40
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:211:13-213:40
 	android:value
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:212:17-37
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:213:17-37
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:211:17-71
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:212:17-71
 intent-filter#action:name:android.telecom.InCallService
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:214:13-216:29
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:215:13-217:29
 action#android.telecom.InCallService
-ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:215:17-72
+ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:216:17-72
 	android:name
-		ADDED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml:215:25-69
+		ADDED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml:216:25-69
 uses-sdk
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
-INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
+INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\guzel\.gradle\caches\transforms-3\0138e2e536082aa738babe56f30c2fa9\transformed\jetified-viewbinding-8.1.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.1.2] C:\Users\guzel\.gradle\caches\transforms-3\0138e2e536082aa738babe56f30c2fa9\transformed\jetified-viewbinding-8.1.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\guzel\.gradle\caches\transforms-3\e9b0092744cb981fb6bf2bd362fbdd0b\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
@@ -892,9 +892,9 @@ MERGED from [io.michaelrocks:libphonenumber-android:8.12.28] C:\Users\guzel\.gra
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\guzel\.gradle\caches\transforms-3\92285a13bc9aa50ff43ae745ce263b34\transformed\jetified-firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
 	android:targetSdkVersion
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\uygulamalar\wocallerguncel\app\src\main\AndroidManifest.xml
+		INJECTED from C:\uygulamalar\wocallerguncel1\app\src\main\AndroidManifest.xml
 permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:4.8.11] C:\Users\guzel\.gradle\caches\transforms-3\471998772f785b389756d6c016c8d7f4\transformed\jetified-OneSignal-4.8.11\AndroidManifest.xml:7:5-9:47
 	android:protectionLevel

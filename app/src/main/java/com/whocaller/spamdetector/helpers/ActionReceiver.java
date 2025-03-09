@@ -38,6 +38,7 @@ public class ActionReceiver extends BroadcastReceiver {
         try {
             if (intent.hasExtra("endCall")) {
                 Log.d(TAG, "endCall action received");
+                NotificationHelper.stopRingtoneAndNotification(context); // Eklenen satır
                 if (currentCall != null) {
                     CallManager.hangUpCall(currentCall);
                     Toast.makeText(context, R.string.call_ended, Toast.LENGTH_SHORT).show();

@@ -190,11 +190,13 @@ public class NotificationHelper {
                 .setChannelId(CHANNEL_ID)
                 .setOnlyAlertOnce(false)
                 .setSilent(true)
+                .setDeleteIntent(null) // Silme işlemini engelle
                 .setVisibility(NotificationCompat.VISIBILITY_PUBLIC) // Kilit ekranında göster
                 .setShowWhen(true)
                 .setWhen(System.currentTimeMillis())
                 .setUsesChronometer(true) // Arama süresi sayacı ekle
                 .setAutoCancel(false); // Otomatik kapanmayı engelle
+
 
         // Kapatılamaz bildirimi ayarla
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
@@ -397,11 +399,7 @@ public class NotificationHelper {
     }
 
     // ---- stopRingtone ----
-    private static void stopRingtone(Context context) {
-        if (isRingtoneHandledByActivity) {
-            isRingtonePlaying = false;
-            return;
-        }
+    public static void stopRingtone(Context context) {
         try {
             if (ringtone != null && ringtone.isPlaying()) {
                 ringtone.stop();
@@ -420,11 +418,13 @@ public class NotificationHelper {
 
             ringtone = null;
             isRingtonePlaying = false;
-            isRingtoneSilenced = false; // Zil sesi durdurulduğunda silenced durumunu sıfırla
+            isRingtoneSilenced = false;
         } catch (Exception e) {
             Log.e(TAG, "Error stopping ringtone: " + e.getMessage(), e);
         }
     }
+
+
 
     // ---- silenceRingtone ----
     public static void silenceRingtone(Context context) {
@@ -487,8 +487,7 @@ public class NotificationHelper {
 
         switch (callState) {
             case Call.STATE_ACTIVE:
-                // Aktif çağrıya geçildiğinde zil sesini durdur
-                stopRingtone(context);
+                stopRingtone(context); // Mutlaka durdur
                 isInCall = true;
                 break;
 

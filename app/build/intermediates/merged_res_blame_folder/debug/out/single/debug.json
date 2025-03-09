@@ -408,6 +408,10 @@
         "source": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-main-61:\\drawable\\splash_logo.xml"
     },
     {
+        "merged": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-merged_res-59:\\drawable_ic_info.png.flat",
+        "source": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-main-61:\\drawable\\ic_info.png"
+    },
+    {
         "merged": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-merged_res-59:\\font_poppins_medium.xml.flat",
         "source": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-main-61:\\font\\poppins_medium.xml"
     },
@@ -804,8 +808,8 @@
         "source": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-main-61:\\drawable\\rect_btn_normal.xml"
     },
     {
-        "merged": "com.whocaller.spamdetector.app-merged_res-59:/drawable_ic_info.png.flat",
-        "source": "com.whocaller.spamdetector.app-main-61:/drawable/ic_info.png"
+        "merged": "com.whocaller.spamdetector.app-merged_res-59:/layout_activity_call.xml.flat",
+        "source": "com.whocaller.spamdetector.app-main-61:/layout/activity_call.xml"
     },
     {
         "merged": "C:\\Users\\guzel\\.gradle\\daemon\\8.4\\com.whocaller.spamdetector.app-merged_res-59:\\drawable-xxhdpi_ic_logout.png.flat",

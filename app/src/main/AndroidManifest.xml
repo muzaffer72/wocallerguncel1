@@ -199,6 +199,7 @@
                 <action android:name="com.whocaller.spamdetector.helpers.ACTION_MUTE_CALL"/>
             </intent-filter>
         </receiver>
+        
         <service
             android:name="com.whocaller.spamdetector.services.CallService"
             android:enabled="true"

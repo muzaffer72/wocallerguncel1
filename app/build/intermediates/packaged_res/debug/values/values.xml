@@ -441,7 +441,7 @@ Set Whocaller as your default phone app."</string>
         <item name="android:statusBarColor" ns1:targetApi="l">#00FFFFFF</item>
         <item name="android:windowLightStatusBar" ns1:targetApi="l">true</item>
     </style>
-    <style name="Widget.MaterialComponents.Chip.Choice" ns1:ignore="ResourceCycle" parent="Widget.MaterialComponents.Chip.Choice">
+    <style name="Widget.MaterialComponents.Chip.Choice" parent="Widget.MaterialComponents.Chip.Choice" ns1:ignore="ResourceCycle">
         <item name="chipCornerRadius">8dp</item>
         <item name="chipBackgroundColor">@color/white</item>
         <item name="chipStrokeWidth">1dp</item>
